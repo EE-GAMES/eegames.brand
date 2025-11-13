@@ -1,0 +1,16 @@
+{
+	"name": "com.eegames.brand",
+	"displayName": "EE GAMES Brand Identifier",
+	"version": "1.0.0",
+	"description": "EE GAMES Brand Identifier for Partners",
+	"author": {
+		"name": "EE GAMES",
+		"email": "ray@eegames.com",
+		"url": "https://www.eegames.com"
+	},
+	"license": "MIT",
+	"keywords": [
+		"eegames",
+		"brand"
+	]
+}
