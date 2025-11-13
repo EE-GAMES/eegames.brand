@@ -8,6 +8,22 @@
 		"email": "ray@eegames.com",
 		"url": "https://www.eegames.com"
 	},
+	"repository": {
+        "url": "https://github.com/EE-GAMES/eegames.brand.git",
+        "type": "git"
+    },
+	"samples": [
+		{
+		"displayName": "Logos",
+		"description": "Contains EE GAMES Logos for branding purposes",
+		"path": "Logos"
+		},
+		{
+		"displayName": "Splashs",
+		"description": "Contains EE GAMES Splashs for Unity Startup",
+		"path": "Splashs"
+		}
+	],
 	"license": "MIT",
 	"keywords": [
 		"eegames",
